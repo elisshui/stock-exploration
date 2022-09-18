@@ -6,7 +6,7 @@
 </p>
   
 <strong>Projects:<br></strong>
-* Stock new headline sentiment analysis using nltk package.<br>
+* Stock new headline sentiment analysis using NLTK package.<br>
 * Developing an LSTM model to predict cryptocurrency prices.<br><br>
 
 <p>

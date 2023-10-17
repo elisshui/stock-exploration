@@ -1,8 +1,7 @@
 <h1>Stock Market Exploration - Machine Learning</h1>
 
 <p>
-  This repository currently holds two small-scale projects aimed at utilizing machine learning concepts in the stock world. More exploratory projects will be added over time and 
-  will be used as a reference point for larger projects in the future.
+  This repository currently holds two very small-scale projects aimed at utilizing machine learning concepts in finance.
 </p>
   
 <strong>Projects:<br></strong>
